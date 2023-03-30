@@ -170,6 +170,7 @@ main {
 
 .resume-content {
     display: flex;
+    gap: 24px;
 }
 
 
