@@ -173,12 +173,17 @@ main {
     gap: 24px;
 }
 
+.resume-item {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
 .resume .title {
 
     font-weight: 700;
     font-size: 25px;
     color: #474747;
+    margin-bottom: 10px;
 
 }
 
@@ -186,6 +191,7 @@ main {
     font-weight: 600;
     font-size: 20px;
     color: #757575;
+    margin-bottom: 20px;
 
 
 }
@@ -194,4 +200,9 @@ main {
 
     color: #757575;
 
+}
+
+.resume-button {
+    margin-top: 50px;
+    text-align: center;
 }
